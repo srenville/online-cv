@@ -78,58 +78,48 @@ education:
       university: University of Guyana
       time: 2011 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        This degree introduced me to the concepts of computing and programming languages used to solve
+        real world problems. I was exposed to machine laguages that opperate at a low level and abstracted language that work more at
+        the application level.  
 
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Statistician
+      time: 2013 - Present
+      company: Bureau of Statistics, Georgetown
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        My role as a Statisticain in the Information Systems Department is to perform supervisory
+        functions to the junior staff.  Further, I manage the organisation's IT operations and provide technical support where
+        needed.  I am involved in the formation of the department's planning and budgeting for each financial year. See below, a list 
+        of my duties:
 
-          - Bullet point
-          - Bullet point
+          - Monitor Firewall and design policies
+          - Backup organisation's data
+          - Update and code web content
+          - Manage Active Directory
+          - Confifgure and monitor organisation's wired and wireless networks
+          - Conduct user training for new software
+          - Manage databases used by the organisation
+          - Troubleshoot technical user problems
+          - Provide technical support to other departments
+          
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - Loan Clerk
+      time: 2007 - 2013
+      company: Student Loan Agency, Turkeyen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a student of the Universty of Guyana, I worked in the Loan Agency, part-time as a Loan Clerk Processing. This required
+        me to interact with the Loan Management Database System, Peach Tree Accounting and the Microsoft Office Suit. Se below the full
+        list of responsiblities:
 
-          - Bullet point
-          - Bullet point
+          - Check loan files for acceptance
+          - query loan management database
+          - Prepare audit documents
+          - Monitor networks
+          - Prepare request for computer equipment
+         
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    
 
 projects:
     title: Projects
@@ -139,67 +129,53 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Frooms-Brooms
+        link: "https://github.com/srenville/Frrom-sBrooms"
+        tagline: "XSLT, XML, JAVA Servlets Xslt Transformation which uses Java Servlets for managing a flower shop"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Chat
+        link: "https://github.com/srenville/chat"
+        tagline: "chat server and client udp application with file transfer"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: CarParts
+        link: "https://github.com/srenville/carparts"
+        tagline: "A remote method invocation (RMI) Program to manage a car part store"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: DSProject
+        link: "https://github.com/Snickdx/DSProject/tree/master/myImp"
+        tagline: "A distributed banking application that is transparent"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
+      - name: Javascript
+        level: 60%
+      
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
-      - name: Ruby on Rails
+      - name: C
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 85%
+        
+      - name: SQL
+        level: 85%
+        
+      - name: XML & XSLT
+        level: 85%
+       
+      - name: RMI with Java and C
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
