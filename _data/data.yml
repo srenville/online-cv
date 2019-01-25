@@ -127,13 +127,6 @@ experiences:
          
 
     
-
-projects:
-    title: A Cloud-Based Framework for the Representation of Multipart Credentials for User Authentication
-    intro: >
-      This research seeks to examine the benefits of multi-modal two-part authentication in Automated Teller Machines (ATMs), supported by a cloud infrastructure, presented as Authentication-as-a -Service.  
-      We will explore the problems this approach seeks to solve and catalogue the cost of such an implementation of user authentication. 
-    assignments:
     
 projects:
     title: Projects
@@ -156,7 +149,10 @@ projects:
         link: "https://github.com/Snickdx/DSProject/tree/master/myImp"
         tagline: "A distributed banking application that is transparent"
 
-     
+      -title: A Cloud-Based Framework for the Representation of Multipart Credentials for User Authentication
+        link:"#"
+       tagline: "This research seeks to examine the benefits of multi-modal two-part authentication in Automated Teller Machines (ATMs), supported by a cloud infrastructure, presented as Authentication-as-a -Service.  
+      We will explore the problems this approach seeks to solve and catalogue the cost of such an implementation of user authentication."
 
 
 
