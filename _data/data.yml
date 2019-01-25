@@ -43,16 +43,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      My career in computer science began in 2013 after my completion of a degree in the subject area from the
+      University of Guyana. I began working at the  Bureau of Statistics in the Information Systems department at a supervisory position
+      and have been working there since.  Over the years, I facilitated many staff training activities; I was the leader of
+      the GuyD_Info support group which was used to bring awareness to government agencies on the use of this tool, provided
+      by UNICEF, to monitor Guyana's Mellenneum Development Goals. I was the IT-Lead on the Ministry of Health Stepwise Survey and
+      the representative, in Mahdia, for the Ministry of Education's Mathematics and Science Survey.
 
-      Second paragraph if required.
+      
 
 education:
-    - degree: MSc in Computer Science
+    - degree: MSc in Computer Science (Honor)
       university: University of the West Indies
       time: 2017 - 2019
       details: |
@@ -74,7 +75,7 @@ education:
 
 
 
-    - degree: BSc in Computer Science
+    - degree: BSc in Computer Science (Distinction)
       university: University of Guyana
       time: 2011 - 2013
       details: |
@@ -82,7 +83,7 @@ education:
         real world problems. I was exposed to machine laguages that opperate at a low level and abstracted language that work more at
         the application level.  
 
-    - degree: Diploma in Public Management
+    - degree: Diploma in Public Management (Distinction)
       university: University of Guyana
       time: 2006 - 2008
       details: |
@@ -128,11 +129,10 @@ experiences:
     
 
 projects:
-    title: Projects
+    title: A Cloud-Based Framework for the Representation of Multipart Credentials for User Authentication
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This research seeks to examine the benefits of multi-modal two-part authentication in Automated Teller Machines (ATMs), supported by a cloud infrastructure, presented as Authentication-as-a -Service.  
+      We will explore the problems this approach seeks to solve and catalogue the cost of such an implementation of user authentication. 
 
     assignments:
       - title: Frooms-Brooms
