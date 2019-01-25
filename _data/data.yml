@@ -56,23 +56,17 @@ education:
       university: University of the West Indies
       time: 2017 - 2019
       details: |
-        In September 2017 I was awarded a scholarship from the Government of Guyana to 
-        pursue a Masters in Computer Science at the University of the West Indies, St. Augustine, TT.
-        This course was focused on cloud computing and its underlying components. I was registered as a full time student, finishing the taught 
-        courses in two semesters.  The courses which comprised this degree are as follows
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
 
-         - COMP 6104 Advanced Computer Networking
-         - COMP 6401 Advanced Algorithms
-         - COMP 6501 Research Methods, Entrepreneurship and Intellectual Property
-         - COMP 6601 Distributed Computer Systems
-         - COMP 6701 E-Commerce and M-Commerce Systems
-         - COMP 6801 Network and Computer Security
-         - COMP 6300 Advanced Internet Technologies
-         - COMP 6901 Software Project Engineering and Management
-         - COMP 6905 Cloud Technologies
-         - COMP 6802 Distributed and Parallel Database Systems
+          - Bullet point
+          - Bullet point
 
-I am currently in the process of writing my final thesis for this program.|
+
+I am currently in the process of writing my final thesis for this program.
 
 
     - degree: BSc in Computer Science
