@@ -133,7 +133,8 @@ projects:
     intro: >
       This research seeks to examine the benefits of multi-modal two-part authentication in Automated Teller Machines (ATMs), supported by a cloud infrastructure, presented as Authentication-as-a -Service.  
       We will explore the problems this approach seeks to solve and catalogue the cost of such an implementation of user authentication. 
-
+    assignments:
+    
 projects:
     title: Projects
     intro: >
